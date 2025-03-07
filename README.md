@@ -1,2 +1,2 @@
-# Dio-Java-B-sico
+# Dio-Java-Basico
 Repositório para armazenar todo o conteúdo do curso de Java básico do Bootcamp Dio/Bradesco
